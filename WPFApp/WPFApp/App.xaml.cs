@@ -13,5 +13,6 @@ namespace WPFApp
     /// </summary>
     public partial class App : Application
     {
+I have changed something. This is my first change
     }
 }
